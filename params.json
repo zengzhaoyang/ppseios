@@ -1,6 +1,6 @@
 {
   "name": "Ppseios",
   "tagline": "",
-  "body": "<script>\r\nwindows.location.href=\"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zengzhaoyang/ppseios/master/manifest.plist\"\r\n</script>",
+  "body": "### ppse-offline\r\n* [Download ppse-offline](http://www.baidu.com)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
