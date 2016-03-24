@@ -1,6 +1,6 @@
 {
   "name": "Ppseios",
   "tagline": "",
-  "body": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n<title>ppse-offline</title>\r\n</head>\r\n<body>\r\n<h1 style=\"font-size:60pt\">\r\n<a title=\"iPhone\" href=\"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zengzhaoyang/ppseios/master/manifest.plist\">\r\nDownload ppse-offline</a><h1/>\r\n</body>\r\n</html>\r\n",
+  "body": "[Download ppse-offline](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zengzhaoyang/ppseios/master/manifest.plist)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
